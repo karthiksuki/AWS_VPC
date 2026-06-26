@@ -1,0 +1,6 @@
+boto3>=1.34.0
+botocore>=1.34.0
+python-dotenv>=1.0.0
+pyyaml>=6.0.1
+rich>=13.7.0
+click>=8.1.7
